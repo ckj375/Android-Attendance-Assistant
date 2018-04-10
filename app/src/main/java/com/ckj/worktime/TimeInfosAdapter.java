@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.yr.worktime.R;
+import com.ckj.worktime.R;
 
 import java.util.ArrayList;
 import java.util.HashMap;

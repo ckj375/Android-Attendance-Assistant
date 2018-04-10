@@ -10,7 +10,7 @@ import com.umeng.analytics.MobclickAgent;
 import com.yr.worktime.model.TimeInfo;
 import com.yr.worktime.model.WorkState;
 
-import com.yr.worktime.R;
+import com.ckj.worktime.R;
 import com.yr.worktime.util.ComFunction;
 import com.yr.worktime.db.DatabaseHandle;
 import com.yr.worktime.db.MyDatabaseHelper;

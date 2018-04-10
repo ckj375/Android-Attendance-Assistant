@@ -3,7 +3,7 @@ package com.ckj.worktime;
 import java.util.Calendar;
 
 import com.umeng.analytics.MobclickAgent;
-import com.yr.worktime.R;
+import com.ckj.worktime.R;
 import com.yr.worktime.util.ComFunction;
 
 import android.app.Activity;

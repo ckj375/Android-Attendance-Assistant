@@ -7,7 +7,7 @@ import com.yr.worktime.model.TimeInfo;
 import com.yr.worktime.model.WorkState;
 
 import com.ckj.worktime.view.ClockButton;
-import com.yr.worktime.R;
+import com.ckj.worktime.R;
 import com.yr.worktime.util.ComFunction;
 import com.yr.worktime.db.DataTable;
 import com.yr.worktime.db.DatabaseHandle;

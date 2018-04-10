@@ -16,7 +16,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.yr.worktime.R;
+import com.ckj.worktime.R;
 import com.yr.worktime.util.ComFunction;
 
 public class DataAnalysisActivity extends Activity {

@@ -9,7 +9,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.yr.worktime.R;
+import com.ckj.worktime.R;
 
 /**
  * 打卡按钮
