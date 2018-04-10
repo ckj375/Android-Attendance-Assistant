@@ -1,0 +1,10 @@
+<resources>
+    <string name="defaultTimeMS">09:00</string>
+    <string name="defaultTimeME">12:00</string>
+    <string name="defaultTimeAS">13:00</string>
+    <string name="defaultTimeAE">18:00</string>
+    <string name="defaultTimeNS">18:30</string>
+    <string name="defaultTimeNE">23:59</string>
+    <string name="defaultJumpTime">30</string>
+    <string name="defaultTimeOffest">5</string>
+</resources>

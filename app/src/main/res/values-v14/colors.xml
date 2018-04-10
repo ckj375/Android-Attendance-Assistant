@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F5F5F5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="title_bar_bg">#2B2B2B</color>
+    <color name="title_bar_text_color">#FFFFFF</color>
+
+    <color name="text_dark_color">#2C2C2C</color>
+    <color name="text_light_color">#FFFFFF</color>
+
+    <color name="hpColor">#9DB843</color>
+    <color name="mpColor">#6495ED</color>
+
+    <color name="button_bg">#BFBFBF</color>
+</resources>
